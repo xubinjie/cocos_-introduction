@@ -1,4 +1,4 @@
-###关于cocos creator入门资料整理
+### 关于cocos creator入门资料整理
   
 1:关于cocos creator
 
