@@ -30,7 +30,9 @@ https://mp.weixin.qq.com/s/KGgfbKvgFVgYEua4sY2X1w
 
 https://mp.weixin.qq.com/s/zQq1gVjK99K7ol2UNZ9I1Q
 
-6：ts初体验（后面开发都要用ts语法）
+6：ts初体验
+
+更好的代码提示，减少代码在开发中出错，建议使用vscode+ts作为代码编辑器和开发语言
 
 https://mp.weixin.qq.com/s/lmH-dNxNO_B_01tVUqR7Gg
 
